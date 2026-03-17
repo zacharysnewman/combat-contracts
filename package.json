@@ -1,0 +1,12 @@
+{
+  "name": "com.zacharysnewman.combat-contracts",
+  "version": "1.0.0",
+  "displayName": "Combat Contracts",
+  "description": "Shared interfaces and value objects for combat systems.",
+  "unity": "2022.3",
+  "dependencies": {},
+  "author": {
+    "name": "zacharysnewman",
+    "url": "https://github.com/zacharysnewman"
+  }
+}
